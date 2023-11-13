@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sai-kumar2413
-- 👀 I’m interested in python
+- 👀 I’m interested in c++
 - 🌱 I’m currently learning c-language
 - 📫 How to reach me 
 
