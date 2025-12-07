@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sai-kumar2413
-- 👀 I’m interested in c++
-- 🌱 I’m currently working as .Net developer 
+Hi👋, I’m Sai Kumar, glad to see you!
+
+- 👀 I’m interested in C++
+- 🌱 I’m currently working as .Net developer & Angular
 
 <!---
 sai-kumar2413/sai-kumar2413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
